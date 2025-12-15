@@ -1,0 +1,367 @@
+GeneID,Module,kME,is_hub,Symbol,Description
+9782,1,0.9852262841796278,True,MATR3,matrin 3
+23360,1,0.9829429663002618,True,FNBP4,formin binding protein 4
+1974,1,0.9808702296442189,True,EIF4A2,eukaryotic translation initiation factor 4A2
+116228,1,0.975191874696348,True,COX20,cytochrome c oxidase assembly factor COX20
+81611,1,0.9751350915784127,True,ANP32E,acidic nuclear phosphoprotein 32 family member E
+51747,1,0.974535298847528,True,LUC7L3,LUC7 like 3 pre-mRNA splicing factor
+9295,1,0.9739742498454261,True,SRSF11,serine and arginine rich splicing factor 11
+51569,1,0.9737063843946562,True,UFM1,ubiquitin fold modifier 1
+1633,1,0.9736523395775429,True,DCK,deoxycytidine kinase
+26354,1,0.9718776055752525,True,GNL3,G protein nucleolar 3
+55608,1,0.9714084924746195,True,ANKRD10,ankyrin repeat domain 10
+28951,1,0.9708648872827935,True,TRIB2,tribbles pseudokinase 2
+11320,1,0.9693205676224342,True,MGAT4A,"alpha-1,3-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase A"
+58487,1,0.969122963841917,True,CREBZF,CREB/ATF bZIP transcription factor
+5965,1,0.9679831384713491,True,RECQL,RecQ like helicase
+29121,1,0.9679067631824944,True,CLEC2D,C-type lectin domain family 2 member D
+5612,1,0.9675261698870131,True,THAP12,THAP domain containing 12
+472,1,0.9670242902171066,True,ATM,ATM serine/threonine kinase
+109136579,1,0.9663305038169497,True,TALAM1,"TALAM1 transcript, MALAT1 antisense RNA"
+378938,1,0.9659150786936351,True,MALAT1,metastasis associated lung adenocarcinoma transcript 1
+8445,1,0.9655909205203437,True,DYRK2,dual specificity tyrosine phosphorylation regulated kinase 2
+155435,1,0.9650168695264321,True,RBM33,RNA binding motif protein 33
+647979,1,0.964978658681667,True,NORAD,non-coding RNA activated by DNA damage
+6229,1,0.9645332873564111,True,RPS24,ribosomal protein S24
+330,1,0.9641589892541595,True,BIRC3,baculoviral IAP repeat containing 3
+100526842,1,0.9636858402481262,True,RPL17-C18orf32,RPL17-C18orf32 readthrough
+22890,1,0.9631300768554347,True,ZBTB1,zinc finger and BTB domain containing 1
+11123,1,0.9631120420501681,True,RCAN3,RCAN family member 3
+55251,1,0.9628850479064037,True,PCMTD2,protein-L-isoaspartate (D-aspartate) O-methyltransferase domain containing 2
+51602,1,0.9628452879707479,True,NOP58,NOP58 ribonucleoprotein
+100288615,1,0.9617796029073747,True,WHAMMP1,WHAMM pseudogene 1
+692199,1,0.9617623048663518,True,SNORD84,"small nucleolar RNA, C/D box 84"
+81539,1,0.9612133049549167,True,SLC38A1,solute carrier family 38 member 1
+5150,1,0.96062281826274,True,PDE7A,phosphodiesterase 7A
+3738,1,0.9604939390543119,True,KCNA3,potassium voltage-gated channel subfamily A member 3
+55629,1,0.9599899846082406,True,PNRC2,proline rich nuclear receptor coactivator 2
+4820,1,0.9597912002823737,True,NKTR,natural killer cell triggering receptor
+51727,1,0.9590080701994101,True,CMPK1,cytidine/uridine monophosphate kinase 1
+107987222,1,0.9585773489324532,True,LOC107987222,
+23181,1,0.9583784599761132,True,DIP2A,disco interacting protein 2 homolog A
+10923,1,0.9583084813285475,True,SUB1,SUB1 regulator of transcription
+55082,1,0.958157487952873,True,ARGLU1,arginine and glutamate rich 1
+5567,1,0.9580017958033383,True,PRKACB,protein kinase cAMP-activated catalytic subunit beta
+917,1,0.9571015390651012,True,CD3G,CD3 gamma subunit of T-cell receptor complex
+55106,1,0.956766595758717,True,SLFN12,schlafen family member 12
+165631,1,0.9563981839709889,True,PARP15,poly(ADP-ribose) polymerase family member 15
+4068,1,0.9563633099089516,True,SH2D1A,SH2 domain containing 1A
+100506710,1,0.9563433253571548,True,EBLN3P,"endogenous Bornavirus like nucleoprotein 3, pseudogene"
+9406,1,0.9550712105188204,True,ZRANB2,zinc finger RANBP2-type containing 2
+25957,1,0.9550347210092174,True,PNISR,PNN interacting serine and arginine rich protein
+80012,1,0.954905153299461,True,PHC3,polyhomeotic homolog 3
+23015,1,0.9548395194983494,True,GOLGA8A,golgin A8 family member A
+54832,1,0.9540259484848054,True,VPS13C,vacuolar protein sorting 13 homolog C
+2005,1,0.9539785464272331,True,ELK4,ETS transcription factor ELK4
+50852,1,0.9536052257555124,True,TRAT1,T cell receptor associated transmembrane adaptor 1
+57396,1,0.952859654823619,True,CLK4,CDC like kinase 4
+81542,1,0.9525906423344046,True,TMX1,thioredoxin related transmembrane protein 1
+201595,1,0.952580412603097,True,STT3B,STT3 oligosaccharyltransferase complex catalytic subunit B
+6139,1,0.9521494595942386,True,RPL17,ribosomal protein L17
+120,1,0.9520517909305704,True,ADD3,adducin 3
+112268259,1,0.9520322909005877,True,LOC112268259,
+123036,1,0.9518160051908708,True,TC2N,"tandem C2 domains, nuclear"
+5684,1,0.9515448172832794,True,PSMA3,proteasome 20S subunit alpha 3
+6726,1,0.951130584190453,True,SRP9,signal recognition particle 9
+6129,1,0.9508859325866555,True,RPL7,ribosomal protein L7
+940,1,0.9505657900574632,True,CD28,CD28 molecule
+5934,1,0.9503905392550759,True,RBL2,RB transcriptional corepressor like 2
+10125,1,0.9497441750762622,True,RASGRP1,RAS guanyl releasing protein 1
+8473,1,0.9493199801332882,True,OGT,O-linked N-acetylglucosamine (GlcNAc) transferase
+100616408,1,0.9492598096499123,True,MIR5047,microRNA 5047
+64919,1,0.9483419236234741,True,BCL11B,BCL11 transcription factor B
+3094,1,0.9483091136537746,True,HINT1,histidine triad nucleotide binding protein 1
+3646,1,0.947121828968958,True,EIF3E,eukaryotic translation initiation factor 3 subunit E
+113,1,0.9465403926558821,True,ADCY7,adenylate cyclase 7
+9044,1,0.9464166922242877,True,BTAF1,B-TFIID TATA-box binding protein associated factor 1
+440270,1,0.9463250252003672,True,GOLGA8B,golgin A8 family member B
+55454,1,0.9455633460241205,True,CSGALNACT2,chondroitin sulfate N-acetylgalactosaminyltransferase 2
+100996506,1,0.9455613954143637,True,LOC100996506,
+7178,1,0.9440761062946845,True,TPT1,"tumor protein, translationally-controlled 1"
+133418,1,0.9431003545035291,True,EMB,embigin
+10521,1,0.9424850993691688,True,DDX17,DEAD-box helicase 17
+51372,1,0.9421141337352548,True,TMA7,translation machinery associated 7 homolog
+84636,1,0.9420536814723826,True,GPR174,G protein-coupled receptor 174
+107984338,1,0.941895326015532,True,LOC107984338,
+3148,1,0.9412990063174473,True,HMGB2,high mobility group box 2
+5128,1,0.9410691551960159,True,CDK17,cyclin dependent kinase 17
+3983,1,0.9409772414047548,True,ABLIM1,actin binding LIM protein 1
+54989,1,0.9403157303163975,True,ZNF770,zinc finger protein 770
+100506736,1,0.9399631782924639,True,SLFN12L,schlafen family member 12 like
+7294,1,0.9398636666056409,True,TXK,TXK tyrosine kinase
+253832,1,0.9388872323779356,True,ZDHHC20,zinc finger DHHC-type palmitoyltransferase 20
+649946,1,0.9388320680880267,True,RPL23AP64,ribosomal protein L23a pseudogene 64
+26118,1,0.9387309823196116,True,WSB1,WD repeat and SOCS box containing 1
+151613,1,0.9372045400724105,True,TTC14,tetratricopeptide repeat domain 14
+9349,1,0.9367230541814522,True,RPL23,ribosomal protein L23
+100500849,1,0.9364771482228735,True,MIR3916,microRNA 3916
+9262,1,0.9363400347220714,True,STK17B,serine/threonine kinase 17b
+127933,1,0.9363292902775211,True,UHMK1,U2AF homology motif kinase 1
+100190986,1,0.9362808656312201,True,LOC100190986,uncharacterized LOC100190986
+149371,1,0.9361722029041826,True,EXOC8,exocyst complex component 8
+3572,1,0.9359282687338268,True,IL6ST,interleukin 6 cytokine family signal transducer
+221178,1,0.9353134532208925,True,SPATA13,spermatogenesis associated 13
+692093,1,0.9343382031322391,True,SNORD62B,"small nucleolar RNA, C/D box 62B"
+1195,1,0.9337843640673346,True,CLK1,CDC like kinase 1
+100506915,1,0.9332974916044496,True,CHRM3-AS2,CHRM3 antisense RNA 2
+100528032,1,0.93307405539531,True,KLRC4-KLRK1,KLRC4-KLRK1 readthrough
+6160,1,0.9320602013233589,True,RPL31,ribosomal protein L31
+27436,1,0.9314971438746255,True,EML4,EMAP like 4
+105373934,1,0.931449390952358,True,LINC01891,long intergenic non-protein coding RNA 1891
+22914,1,0.9314413547231108,True,KLRK1,killer cell lectin like receptor K1
+10396,1,0.9313957111013287,True,ATP8A1,ATPase phospholipid transporting 8A1
+6201,1,0.9311817163990376,True,RPS7,ribosomal protein S7
+8905,1,0.9299542923039326,True,AP1S2,adaptor related protein complex 1 subunit sigma 2
+597,1,0.9298998406818842,True,BCL2A1,BCL2 related protein A1
+55300,1,0.9294433300208045,True,PI4K2B,phosphatidylinositol 4-kinase type 2 beta
+905,1,0.9293113494594807,True,CCNT2,cyclin T2
+3575,1,0.9290129968868436,True,IL7R,interleukin 7 receptor
+55599,1,0.9289967391662621,True,RNPC3,"RNA binding region (RNP1, RRM) containing 3"
+3702,1,0.9288389002607164,True,ITK,IL2 inducible T cell kinase
+6133,1,0.9282783825968962,True,RPL9,ribosomal protein L9
+79026,1,0.9274369145864064,True,AHNAK,AHNAK nucleoprotein
+57337,1,0.9271491612970263,True,SENP7,SUMO specific peptidase 7
+8545,1,0.9268153325579604,True,CGGBP1,CGG triplet repeat binding protein 1
+60674,1,0.926247727126825,True,GAS5,growth arrest specific 5
+962,1,0.9261413196620029,True,CD48,CD48 molecule
+87178,1,0.9257972287240467,True,PNPT1,polyribonucleotide nucleotidyltransferase 1
+79666,1,0.9256810275420183,True,PLEKHF2,pleckstrin homology and FYVE domain containing 2
+379025,1,0.9249886751708977,True,PSMA3-AS1,PSMA3 antisense RNA 1
+2744,1,0.9244889426330627,True,GLS,glutaminase
+1901,1,0.9240190265454369,True,S1PR1,sphingosine-1-phosphate receptor 1
+162394,1,0.9235916470664549,True,SLFN5,schlafen family member 5
+8763,1,0.9235491424059336,True,CD164,CD164 molecule
+55769,1,0.922891391636071,True,ZNF83,zinc finger protein 83
+2113,1,0.922219401978094,True,ETS1,"ETS proto-oncogene 1, transcription factor"
+51187,1,0.922031215777222,True,RSL24D1,ribosomal L24 domain containing 1
+10009,1,0.9213458133849208,True,ZBTB33,zinc finger and BTB domain containing 33
+23200,1,0.9206686776376838,True,ATP11B,ATPase phospholipid transporting 11B (putative)
+100130231,1,0.9205675591172917,True,LINC00861,long intergenic non-protein coding RNA 861
+9452,1,0.920363988701073,True,ITM2A,integral membrane protein 2A
+26157,1,0.9195121020735761,True,GIMAP2,"GTPase, IMAP family member 2"
+6189,1,0.9189748810937034,True,RPS3A,ribosomal protein S3A
+23451,1,0.9187917328830899,True,SF3B1,splicing factor 3b subunit 1
+1350,1,0.9186959744309213,True,COX7C,cytochrome c oxidase subunit 7C
+5224,1,0.9182767603034385,True,PGAM2,phosphoglycerate mutase 2
+4154,1,0.9182230509070244,True,MBNL1,muscleblind like splicing regulator 1
+594838,1,0.9179406137385175,True,SNORD100,"small nucleolar RNA, C/D box 100"
+5440,1,0.917864445026736,True,POLR2K,"RNA polymerase II, I and III subunit K"
+23390,1,0.9176810992486931,True,ZDHHC17,zinc finger DHHC-type palmitoyltransferase 17
+387751,1,0.9176148370591046,True,GVINP1,"GTPase, very large interferon inducible pseudogene 1"
+57198,1,0.9171405412455617,True,ATP8B2,ATPase phospholipid transporting 8B2
+115294,1,0.917130866733697,True,PCMTD1,protein-L-isoaspartate (D-aspartate) O-methyltransferase domain containing 1
+91526,1,0.9164360535243237,True,ANKRD44,ankyrin repeat domain 44
+5500,1,0.9151155021086833,True,PPP1CB,protein phosphatase 1 catalytic subunit beta
+55016,1,0.9148403501315642,True,MARCHF1,membrane associated ring-CH-type finger 1
+4697,1,0.9143054766825603,True,NDUFA4,NDUFA4 mitochondrial complex associated
+55824,1,0.9141372720667552,True,PAG1,phosphoprotein membrane anchor with glycosphingolipid microdomains 1
+6164,1,0.9126420591904435,True,RPL34,ribosomal protein L34
+375743,1,0.9125824543610939,True,PTAR1,protein prenyltransferase alpha subunit repeat containing 1
+6218,1,0.9123880991050182,True,RPS17,ribosomal protein S17
+106633814,1,0.9120087548273287,True,SNORA86,"small nucleolar RNA, H/ACA box 86"
+1345,1,0.9111048352396147,True,COX6C,cytochrome c oxidase subunit 6C
+151987,1,0.9107058440827555,True,PPP4R2,protein phosphatase 4 regulatory subunit 2
+3688,1,0.9097159005967466,True,ITGB1,integrin subunit beta 1
+168537,1,0.9095384088317576,True,GIMAP7,"GTPase, IMAP family member 7"
+1915,1,0.9088704277553158,True,EEF1A1,eukaryotic translation elongation factor 1 alpha 1
+6135,1,0.9083019890450168,True,RPL11,ribosomal protein L11
+100616387,1,0.908275581424465,True,MIR3064,microRNA 3064
+106635533,1,0.9070107285406479,True,SNORA103,"small nucleolar RNA, H/ACA box 103"
+102466877,1,0.9069392567157628,True,MIR8072,microRNA 8072
+28632,1,0.9065355411132505,True,TRBJ1-4,T cell receptor beta joining 1-4
+414196,1,0.9052680662970393,True,CELF2-AS1,CELF2 antisense RNA 1
+84188,1,0.9050768779988608,True,FAR1,fatty acyl-CoA reductase 1
+55103,1,0.9047944559419371,True,RALGPS2,Ral GEF with PH domain and SH3 binding motif 2
+55914,1,0.9047635868172474,True,ERBIN,erbb2 interacting protein
+125144,1,0.9047252889330615,True,SNHG29,small nucleolar RNA host gene 29
+3344,1,0.9045020160631144,True,FOXN2,forkhead box N2
+51742,1,0.9034879756066266,True,ARID4B,AT-rich interaction domain 4B
+406886,1,0.9029816615728131,True,MIRLET7D,microRNA let-7d
+10161,1,0.9027120808406046,True,LPAR6,lysophosphatidic acid receptor 6
+129293,1,0.9023427032434893,True,TRABD2A,TraB domain containing 2A
+26790,1,0.9017368174460831,True,SNORD58B,"small nucleolar RNA, C/D box 58B"
+9298,1,0.9015241520465647,True,SNORD31,"small nucleolar RNA, C/D box 31"
+490,1,0.9010510841989945,True,ATP2B1,ATPase plasma membrane Ca2+ transporting 1
+100093630,1,0.900300924957561,True,SNHG8,small nucleolar RNA host gene 8
+4214,1,0.8999161885010749,True,MAP3K1,mitogen-activated protein kinase kinase kinase 1
+51176,1,0.8997500725838052,True,LEF1,lymphoid enhancer binding factor 1
+23253,1,0.8995753942301096,True,ANKRD12,ankyrin repeat domain 12
+6093,1,0.89951199507943,True,ROCK1,Rho associated coiled-coil containing protein kinase 1
+619567,1,0.8995039658335401,True,SNORD2,"small nucleolar RNA, C/D box 2"
+6279,1,0.8989319840147769,True,S100A8,S100 calcium binding protein A8
+7402,1,0.8982980384114676,True,UTRN,utrophin
+6173,1,0.8981604200394372,True,RPL36A,ribosomal protein L36a
+28478,1,0.8974874788165642,True,IGHJ3P,immunoglobulin heavy joining 3P (pseudogene)
+677822,1,0.8965326678115196,True,SNORA40,"small nucleolar RNA, H/ACA box 40"
+57532,1,0.8963844843028784,True,NUFIP2,nuclear FMR1 interacting protein 2
+1654,1,0.8936647861771007,True,DDX3X,DEAD-box helicase 3 X-linked
+829,1,0.8928647380584436,True,CAPZA1,capping actin protein of muscle Z-line subunit alpha 1
+9976,1,0.8926462576748715,True,CLEC2B,C-type lectin domain family 2 member B
+102465874,1,0.8918233995889611,True,MIR8075,microRNA 8075
+301,1,0.8911422303819729,True,ANXA1,annexin A1
+4659,1,0.8911119643928292,True,PPP1R12A,protein phosphatase 1 regulatory subunit 12A
+6128,1,0.8910350878074869,True,RPL6,ribosomal protein L6
+10746,1,0.8908642960510164,True,MAP3K2,mitogen-activated protein kinase kinase kinase 2
+54331,1,0.8907703467702461,True,GNG2,G protein subunit gamma 2
+115207,1,0.890494725494917,True,KCTD12,potassium channel tetramerization domain containing 12
+51348,1,0.8901559900383219,True,KLRF1,killer cell lectin like receptor F1
+115350,1,0.8896991819312475,True,FCRL1,Fc receptor like 1
+58475,1,0.8896077150185526,True,MS4A7,membrane spanning 4-domains A7
+100302183,1,0.8892971294984691,True,MIR1825,microRNA 1825
+23049,1,0.8887968814082484,True,SMG1,SMG1 nonsense mediated mRNA decay associated PI3K related kinase
+55023,1,0.8885237491415819,True,PHIP,pleckstrin homology domain interacting protein
+6932,1,0.8882842895405086,True,TCF7,transcription factor 7
+51762,1,0.8881005981601195,True,RAB8B,"RAB8B, member RAS oncogene family"
+2332,1,0.8877791031995035,True,FMR1,fragile X messenger ribonucleoprotein 1
+692235,1,0.8877405356693192,True,SNORD103B,"small nucleolar RNA, C/D box 103B"
+23325,1,0.8877201173057127,True,WASHC4,WASH complex subunit 4
+3799,1,0.8869094142999867,True,KIF5B,kinesin family member 5B
+100381270,1,0.8861837040860852,True,ZBED6,zinc finger BED-type containing 6
+51696,1,0.8819212751753301,True,HECA,"hdc homolog, cell cycle regulator"
+100302224,1,0.8812856418964548,True,MIR2110,microRNA 2110
+51251,1,0.8798688758908653,True,NT5C3A,"5'-nucleotidase, cytosolic IIIA"
+692234,1,0.8793623587772221,True,SNORD103A,"small nucleolar RNA, C/D box 103A"
+6156,1,0.8789586956974684,True,RPL30,ribosomal protein L30
+199786,1,0.8788392446000871,True,NIBAN3,niban apoptosis regulator 3
+54790,1,0.8780122998999871,True,TET2,tet methylcytosine dioxygenase 2
+6232,1,0.8779907333695939,True,RPS27,ribosomal protein S27
+167227,1,0.8779474343536752,True,DCP2,decapping mRNA 2
+830,1,0.8771492203837458,True,CAPZA2,capping actin protein of muscle Z-line subunit alpha 2
+114908,1,0.8769504103065817,True,TMEM123,transmembrane protein 123
+51510,1,0.876434987219525,True,CHMP5,charged multivesicular body protein 5
+6210,1,0.8761758371517547,True,RPS15A,ribosomal protein S15a
+100616487,1,0.8753661040355664,True,MIR4517,microRNA 4517
+3676,1,0.8734873384774108,True,ITGA4,integrin subunit alpha 4
+692057,1,0.8719083668722791,True,SNORD12,"small nucleolar RNA, C/D box 12"
+102466865,1,0.8718396176209482,True,MIR7848,microRNA 7848
+339745,1,0.8713579814493425,True,SPOPL,speckle type BTB/POZ protein like
+100616477,1,0.8711223672663276,True,MIR4442,microRNA 4442
+51313,1,0.8674225273398837,True,GASK1B,golgi associated kinase 1B
+693220,1,0.8669675399490551,True,MIR635,microRNA 635
+54407,1,0.8663946091516173,True,SLC38A2,solute carrier family 38 member 2
+100189029,1,0.8661674129798054,True,TRC-GCA22-1,tRNA-Cys (anticodon GCA) 22-1
+100189387,1,0.8656929692634026,True,TRI-AAT5-5,tRNA-Ile (anticodon AAT) 5-5
+684959,1,0.8653166414588362,True,SNORA25,"small nucleolar RNA, H/ACA box 25"
+253430,1,0.8651502398432345,True,IPMK,inositol polyphosphate multikinase
+3820,1,0.8648163041817153,True,KLRB1,killer cell lectin like receptor B1
+283663,1,0.8647853929972864,True,LINC00926,long intergenic non-protein coding RNA 926
+100302240,1,0.8636921886905963,True,MIR1304,microRNA 1304
+100422860,1,0.8635637277279923,True,MIR4292,microRNA 4292
+91612,1,0.8629234183386075,True,CHURC1,churchill domain containing 1
+100616393,1,0.8625412417783477,True,MIR4657,microRNA 4657
+9304,1,0.8624785518163628,True,SNORD22,"small nucleolar RNA, C/D box 22"
+10875,1,0.8616985855351227,True,FGL2,fibrinogen like 2
+100529239,1,0.8612449461033228,True,RPS10-NUDT3,RPS10-NUDT3 readthrough
+54809,1,0.8602349121310803,True,SAMD9,sterile alpha motif domain containing 9
+100189146,1,0.8601907214310501,True,TRC-GCA16-1,tRNA-Cys (anticodon GCA) 16-1
+100847010,1,0.859506593661737,True,MIR5581,microRNA 5581
+693155,1,0.8593227741645614,True,MIR570,microRNA 570
+6175,1,0.8591130031633184,True,RPLP0,ribosomal protein lateral stalk subunit P0
+140609,1,0.8587659220365297,True,NEK7,NIMA related kinase 7
+114882,1,0.8586971763238054,True,OSBPL8,oxysterol binding protein like 8
+969,1,0.8581013423695105,True,CD69,CD69 molecule
+106635684,1,0.8566422603303568,True,SNORD141B,"small nucleolar RNA, C/D box 141B"
+26791,1,0.8564986813846054,True,SNORD58A,"small nucleolar RNA, C/D box 58A"
+28633,1,0.8555606257548427,True,TRBJ1-3,T cell receptor beta joining 1-3
+6102,1,0.8554489833193402,True,RP2,RP2 activator of ARL3 GTPase
+693175,1,0.8553963784755007,True,MIR590,microRNA 590
+64859,1,0.8552482962186396,True,NABP1,nucleic acid binding protein 1
+79368,1,0.8552095793861256,True,FCRL2,Fc receptor like 2
+1043,1,0.8550800660221154,True,CD52,CD52 molecule
+55754,1,0.8547126312430214,True,TMEM30A,transmembrane protein 30A
+3717,1,0.8544428823821802,True,JAK2,Janus kinase 2
+253039,1,0.8530485951983073,True,CUTALP,"cutA divalent cation tolerance like, pseudogene"
+28519,1,0.8528277687396218,True,TRDJ4,T cell receptor delta joining 4
+10735,1,0.8522028500298642,True,STAG2,stromal antigen 2
+100616358,1,0.8518881370070595,True,MIR4800,microRNA 4800
+3921,1,0.8514127631563428,True,RPSA,ribosomal protein SA
+6170,1,0.8511113189193614,True,RPL39,ribosomal protein L39
+79627,1,0.8500356872950757,True,OGFRL1,opioid growth factor receptor like 1
+94241,1,0.8493169313414406,True,TP53INP1,tumor protein p53 inducible nuclear protein 1
+1933,1,0.8489883382579211,True,EEF1B2,eukaryotic translation elongation factor 1 beta 2
+100616378,1,0.8484067861827538,True,MIR4784,microRNA 4784
+24138,1,0.8480737699347635,True,IFIT5,interferon induced protein with tetratricopeptide repeats 5
+23312,1,0.8473053688780232,True,DMXL2,Dmx like 2
+139818,1,0.8464759778618725,True,DOCK11,dedicator of cytokinesis 11
+23527,1,0.8463192622434412,True,ACAP2,"ArfGAP with coiled-coil, ankyrin repeat and PH domains 2"
+931,1,0.8452371575349962,True,MS4A1,membrane spanning 4-domains A1
+50484,1,0.844934014391351,True,RRM2B,ribonucleotide reductase regulatory TP53 inducible subunit M2B
+115650,1,0.8442210194059211,True,TNFRSF13C,TNF receptor superfamily member 13C
+5586,1,0.8439801756805231,True,PKN2,protein kinase N2
+203228,1,0.8436729890502654,True,C9orf72,C9orf72-SMCR8 complex subunit
+406962,1,0.8426207986881356,True,MIR186,microRNA 186
+6154,1,0.8406657467154688,True,RPL26,ribosomal protein L26
+6155,1,0.8404873607624507,True,RPL27,ribosomal protein L27
+6977,1,0.8395189289213014,True,TRGV4,T cell receptor gamma variable 4
+253260,1,0.8394941611772899,True,RICTOR,RPTOR independent companion of MTOR complex 2
+55196,1,0.8394300074914313,True,RESF1,retroelement silencing factor 1
+102465248,1,0.8393262569377928,True,MIR6501,microRNA 6501
+3930,1,0.8388060400321945,True,LBR,lamin B receptor
+80830,1,0.8386544951552959,True,APOL6,apolipoprotein L6
+7913,1,0.8383710055200319,True,DEK,DEK proto-oncogene
+652965,1,0.8380243878440894,True,SNORA48,"small nucleolar RNA, H/ACA box 48"
+22797,1,0.838004093064238,True,TFEC,transcription factor EC
+6171,1,0.8375845255277391,True,RPL41,ribosomal protein L41
+106635534,1,0.8371289860140932,True,SNORA104,"small nucleolar RNA, H/ACA box 104"
+100616422,1,0.8370599012217209,True,MIR4537,microRNA 4537
+54543,1,0.8367473349147361,True,TOMM7,translocase of outer mitochondrial membrane 7
+100616135,1,0.8364625614447158,True,MIR4507,microRNA 4507
+26785,1,0.8363302238137883,True,SNORD63,"small nucleolar RNA, C/D box 63"
+26776,1,0.8353560963531802,True,SNORA71B,"small nucleolar RNA, H/ACA box 71B"
+100847028,1,0.8343015830416521,True,MIR5587,microRNA 5587
+102465133,1,0.834014698185734,True,MIR6125,microRNA 6125
+677850,1,0.8332164863321698,True,SNORD1C,"small nucleolar RNA, C/D box 1C"
+100616150,1,0.8330845956924268,True,MIR4720,microRNA 4720
+28475,1,0.8320166162399059,True,IGHJ6,immunoglobulin heavy joining 6
+109623452,1,0.8315363447891361,True,SNORD159,"small nucleolar RNA, C/D box 159"
+64407,1,0.8310243655857278,True,RGS18,regulator of G protein signaling 18
+80124,1,0.8291819550473211,True,VCPIP1,valosin containing protein interacting protein 1
+102466732,1,0.8291267174207767,True,MIR6774,microRNA 6774
+79652,1,0.8290937303754992,True,TMEM204,transmembrane protein 204
+9301,1,0.8283994709598989,True,SNORD27,"small nucleolar RNA, C/D box 27"
+6144,1,0.8279002489075566,True,RPL21,ribosomal protein L21
+6204,1,0.8275153367930429,True,RPS10,ribosomal protein S10
+28737,1,0.8266431172678587,True,TRAJ18,T cell receptor alpha joining 18
+100616276,1,0.8264546466565519,True,MIR4538,microRNA 4538
+3001,1,0.8261674030794081,True,GZMA,granzyme A
+221037,1,0.8250818182108962,True,JMJD1C,jumonji domain containing 1C
+3112,1,0.8246148567659155,True,HLA-DOB,"major histocompatibility complex, class II, DO beta"
+692213,1,0.8241627345821306,True,SNORD110,"small nucleolar RNA, C/D box 110"
+100616374,1,0.8238330712797847,True,MIR4539,microRNA 4539
+2123,1,0.8228379069867898,True,EVI2A,ecotropic viral integration site 2A
+6122,1,0.8223413202304208,True,RPL3,ribosomal protein L3
+100302182,1,0.8221387795723291,True,MIR1279,microRNA 1279
+923,1,0.8215488376468496,True,CD6,CD6 molecule
+10114,1,0.8185279793979204,True,HIPK3,homeodomain interacting protein kinase 3
+6314,1,0.8180773506719007,True,ATXN7,ataxin 7
+11224,1,0.8176815748230006,True,RPL35,ribosomal protein L35
+100302237,1,0.8176697079377334,True,MIR1281,microRNA 1281
+55007,1,0.8170209213698256,True,FAM118A,family with sequence similarity 118 member A
+285172,1,0.8168346432776176,True,HYCC2,hyccin PI4KA lipid kinase complex subunit 2
+6125,1,0.8163353124678082,True,RPL5,ribosomal protein L5
+106635683,1,0.815431434519446,True,SNORD141A,"small nucleolar RNA, C/D box 141A"
+101929072,1,0.8147626322603796,True,MICA-AS1,MICA antisense RNA 1
+1462,1,0.8115299166795293,True,VCAN,versican
+100131205,1,0.811399869542828,True,RPL21P28,ribosomal protein L21 pseudogene 28
+51439,1,0.8107743743866344,True,FAM8A1,family with sequence similarity 8 member A1
+407043,1,0.8104544378592493,True,MIR7-1,microRNA 7-1
+57590,1,0.8104532122800202,True,WDFY1,WD repeat and FYVE domain containing 1
+10672,1,0.8102408969036269,True,GNA13,G protein subunit alpha 13
+3495,1,0.8100133458105728,True,IGHD,immunoglobulin heavy constant delta
+105376843,1,0.8095074972809886,True,SNHG25,small nucleolar RNA host gene 25
+6982,1,0.807870814280344,True,TRGV8,T cell receptor gamma variable 8
+571,1,0.8064114864340735,True,BACH1,BTB domain and CNC homolog 1
+6976,1,0.8063257621160507,True,TRGV3,T cell receptor gamma variable 3
+100616259,1,0.8062616297245842,True,MIR378I,microRNA 378i
+100189003,1,0.8061891200625834,True,TRL-CAA6-1,tRNA-Leu (anticodon CAA) 6-1
+6165,1,0.804394749779291,True,RPL35A,ribosomal protein L35a
+26795,1,0.804345881173634,True,SNORD54,"small nucleolar RNA, C/D box 54"
+11274,1,0.8040419380053335,True,USP18,ubiquitin specific peptidase 18
+6235,1,0.803727936756225,True,RPS29,ribosomal protein S29
+3433,1,0.8033333439309248,True,IFIT2,interferon induced protein with tetratricopeptide repeats 2
+221756,1,0.8032597942921669,True,SERPINB9P1,serpin family B member 9 pseudogene 1
+28476,1,0.8030757492095457,True,IGHJ5,immunoglobulin heavy joining 5
+4671,1,0.8030187474503768,True,NAIP,NLR family apoptosis inhibitory protein
+28753,1,0.8028492859239513,True,TRAJ2,T cell receptor alpha joining 2 (non-functional)
+23347,1,0.8012844695176333,True,SMCHD1,structural maintenance of chromosomes flexible hinge domain containing 1
+100500827,1,0.8007555514925456,True,MIR3614,microRNA 3614

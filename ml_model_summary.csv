@@ -1,0 +1,7 @@
+Task,Model,Primary Metric,Secondary Metric
+Classification (V2 vs V3),Logistic Regression,0.696 (Accuracy),0.754 (AUC)
+Classification (V2 vs V3),Random Forest,0.652 (Accuracy),0.715 (AUC)
+Classification (V2 vs V3),SVM,0.652 (Accuracy),0.492 (AUC)
+Regression (Response Strength),Elastic Net,0.973 (R²),0.998 (Correlation)
+Regression (Response Strength),Random Forest,0.889 (R²),0.962 (Correlation)
+Regression (Response Strength),SVR,0.666 (R²),0.848 (Correlation)
